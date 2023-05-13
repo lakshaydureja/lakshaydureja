@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshaydureja
-- 👀 I’m interested in Web Development, DSA, Blockchains ,Startups and Marketing.
+- 👀 I’m interested in Android and web Development, DSA, Blockchains ,Startups and Marketing.
 - 🌱 I’m currently learning DSA and Web Development.
 - 📫 you can reach me at lakshaydureja7@gmail.com
 <!---
