@@ -2,7 +2,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=lakshaydureja) -->
 
-<p><samp>
+<p style="font-family: 'Montserrat', sans-serif;"><!-- <samp> -->
   I'm Lakshay Dureja, a passionate developer living in India. Currently pursuing B.Tech in Electronics and Communication.
   <br/><br/>
   I am a Intermediate Web Developer and now transitioning to specialize in Android app development.<br>
@@ -13,8 +13,9 @@
     <li><a href="https://rooftopapp.com/">DareWithMe</a></li>
   </ul>
   
-
-  </samp></p>
+<!-- 
+  </samp> -->
+  </p>
 <br>
 
 ## 🔧 Tools & Technologies
