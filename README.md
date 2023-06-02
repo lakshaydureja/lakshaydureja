@@ -2,19 +2,18 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=lakshaydureja) -->
 
-<p style="font-family: 'Montserrat', sans-serif;"><!-- <samp> -->
+<p><samp>
   I'm Lakshay Dureja, a passionate developer living in India. Currently pursuing B.Tech in Electronics and Communication.
   <br/><br/>
   I am a Intermediate Web Developer and now transitioning to specialize in Android app development.<br>
   I have worked on many web projects and a few Android projects.<br>
   You can see repositories for some of my fun projects like:<br>
   <ul>
-    <li><a href="https://rooftopapp.com/">FinEase</a></li>
-    <li><a href="https://rooftopapp.com/">DareWithMe</a></li>
+    <li><a href="https://github.com/lakshaydureja/FinEase">FinEase</a></li>
+    <li><a href="https://github.com/lakshaydureja/DareWithMeV2">DareWithMe</a></li>
   </ul>
   
-<!-- 
-  </samp> -->
+  </samp> 
   </p>
 <br>
 
