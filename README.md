@@ -3,7 +3,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=lakshaydureja) -->
 
 <p><samp>
-  I'm Lakshay Dureja, a passionate developer living in India. Currently pursuing B.Tech in Electronics and Communication.
+  I'm Lakshay Dureja, a Tech Enthusiast and a passionate developer Currently pursuing B.Tech in Electronics and Communication With AI & ML.
   <br/><br/>
   I am a Intermediate Web Developer and now transitioning to specialize in Android app development.<br>
   I have worked on many web projects and a few Android projects.<br>
