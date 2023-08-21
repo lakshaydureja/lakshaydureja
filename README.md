@@ -10,7 +10,7 @@
   You can see repositories for some of my fun projects like:<br>
   <ul>
     <li><a href="https://github.com/lakshaydureja/FinEase">FinEase</a></li>
-    <li><a href="https://github.com/lakshaydureja/DareWithMeV2">DareWithMe</a></li>
+    <li><a href="https://github.com/lakshaydureja/DareWithMeV3">DareWithMe</a></li>
   </ul>
   
   </samp> 
