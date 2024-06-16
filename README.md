@@ -26,8 +26,10 @@
 <p>Feel free to explore my repositories and see my work!</p>
 <br>
 </samp>
- ## 🔧 Tools & Technologies 
+
+## 🔧 Tools & Technologies 
  ### Experienced
+
 <p>
    <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
