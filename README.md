@@ -1,22 +1,31 @@
 ## Hey there! 👋
 
 <!-- ![](https://komarev.com/ghpvc/?username=lakshaydureja) -->
+<samp>
+<h2>Hi, I'm Lakshay Dureja</h2>
 
-<p><samp>
-  I'm Lakshay Dureja, a Tech Enthusiast and a passionate developer Currently pursuing B.Tech in Electronics and Communication.
-  <br/><br/>
-  I am a Intermediate Web Developer and now transitioning to specialize in Android app development.<br>
-  I have worked on many web projects and a few Android projects.<br>
-  You can see repositories for some of my fun projects like:<br>
-  <ul>
-    <li><a href="https://github.com/lakshaydureja/FinEase">FinEase</a></li>
-    <li><a href="https://github.com/lakshaydureja/DareWithMeV3">DareWithMe</a></li>
-  </ul>
-  
-  </samp> 
-  </p>
+<p>I'm a tech enthusiast and passionate developer currently pursuing a B.Tech in Electronics and Communication. I specialize in both web and Android app development.</p>
+
+<p>With extensive experience in web development, I've transitioned to become a proficient Android developer. I've created numerous Android applications, including:</p>
+
+<ul>
+  <li>An app for an NGO school called "Savera," which is actively used by them.</li>
+  <li>An app for managing hospitals, enhancing their operational efficiency(by making alot or there processes online) built it as a fun startup project with friends pitched it to around 8 hospitals and got kicked out.🥲</li>
+</ul>
+
+<p>In addition to my app development projects, I have also worked on various freelancing web projects.</p>
+
+<p>You can check out some of my fun projects below:</p>
+
+<ul>
+  <li><a href="https://github.com/lakshaydureja/Savera-Project">Savera</a></li>
+  <li><a href="https://github.com/lakshaydureja/FinEase">FinEase</a></li>
+  <li><a href="https://github.com/lakshaydureja/DareWithMeV3">DareWithMe</a></li>
+</ul>
+
+<p>Feel free to explore my repositories and see my work!</p>
 <br>
-
+</samp> 
 ## 🔧 Tools & Technologies
 ### Experienced
 <p>
