@@ -10,7 +10,7 @@
 
 <ul>
   <li>An app for an NGO school called "Savera", which is actively used by them.</li>
-  <li>An app for managing hospitals, enhancing their operational efficiency(by making alot or thier processes online) built it as a fun startup project with friends pitched it to around 8 hospitals and got kicked out.🥲</li>
+  <li>An app for managing hospitals, enhancing their operational efficiency(by making alot or their processes online) built it as a fun startup project with friends pitched it to around 8 hospitals and got kicked out.🥲</li>
 </ul>
 
 <p>In addition to my app development projects, I have also worked on few freelancing web projects.</p>
