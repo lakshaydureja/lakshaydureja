@@ -1,4 +1,3 @@
-## Hey there! 👋
 
 <!-- ![](https://komarev.com/ghpvc/?username=lakshaydureja) -->
 <samp>
