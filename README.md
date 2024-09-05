@@ -19,7 +19,7 @@
 <ul>
   <li><a href="https://github.com/lakshaydureja/Savera-Project">Savera</a></li>
   <li><a href="https://github.com/lakshaydureja/FinEase">FinEase</a></li>
-  <li><a href="https://github.com/lakshaydureja/DareWithMeV3">DareWithMe</a></li>
+  <li><a href="https://github.com/lakshaydureja/StrangerDare">Stranger Dare</a></li>
 </ul>
 
 <p>Feel free to explore my repositories and see my work!</p>
