@@ -1,6 +1,4 @@
 
-<p>PS: not using this account lately, using company provided github account</p>
-
 <!-- ![](https://komarev.com/ghpvc/?username=lakshaydureja) -->
 <samp>
 <h2>Hi, I'm Lakshay Dureja</h2>
